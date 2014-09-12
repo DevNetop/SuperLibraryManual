@@ -18,6 +18,8 @@ Note that it's important to get the size and the resolution of the image right:
 
 Different book types have different default paper sizes.  Each different paper size has a different maximum image width, before your image will bleed over the margin.
 
+insert image inline here ![this web page](images/icons/view.png)
+
 Currently all Leanpub books have 1 inch margins.
 
 Before we get into specifics there's one really important thing to note.
