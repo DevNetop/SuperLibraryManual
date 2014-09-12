@@ -1,4 +1,5 @@
 frontmatter:
+Member.md
 Acknowledgments.txt
 Preface.txt
 Introduction.txt
