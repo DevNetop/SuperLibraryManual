@@ -1,9 +1,8 @@
 frontmatter:
+General.md
+Setting.md
 Member.md
-Acknowledgments.txt
-Preface.txt
-Introduction.txt
-mainmatter:
-Markdown.txt
-Sample Books.txt
-Inserting Images.txt
+Item.md
+Rent.md
+Report.md
+
