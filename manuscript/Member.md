@@ -63,8 +63,8 @@
 
 ## เพิ่มข้อมูลสมาชิก
 สามารถทำได้โดยคลิกที่ปุ่ม ![สร้างสมาชิกใหม่](images/button/ButtonMemberNew.png) ระบบจะแสดงหน้าจอสำหรับรับข้อมูลสมาชิกใหม่ ซึ่งจะประกอบไปด้วย 2 Tab คือ **Tab "บัญชี"** และ **Tab "ข้อมูล"** ดังภาพ  
-![หน้าจอสมาชิกใหม่ Tab บัญชี](images/screen/members/MemberNewAccount.png)  
-![หน้าจอสมาชิกใหม่ Tab ข้อมูล](images/screen/members/MemberNewInformation.png)  
+![หน้าจอสมาชิกใหม่Tabบัญชี](images/screen/members/MemberNewAccount.png)  
+![หน้าจอสมาชิกใหม่Tabข้อมูล](images/screen/members/MemberNewInformation.png)  
 
 ส่วนประกอบรายการต่างๆ ของ **Tab "บัญชี"** `จำเป็น`ต้องกรอกให้ครบ
 
